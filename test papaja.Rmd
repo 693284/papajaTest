@@ -3,12 +3,12 @@ title             : "Does Music Convey Social Information to Infants?"
 shorttitle        : "Title"
 
 author: 
-  - name          : "First Author"
+  - name          : "Mehr, Song"
     affiliation   : "1"
     corresponding : yes    # Define only one corresponding author
     address       : "Postal address"
     email         : "my@email.com"
-  - name          : "Ernst-August Doelle"
+  - name          : "Spelke"
     affiliation   : "1,2"
 
 affiliation:
@@ -102,6 +102,7 @@ view(dfSummary(all_data))
 r_refs(file = "r-references.bib")
 ```
 
+Mehr, S. A., Song. L. A., & Spelke, E. S. (2016). For 5-month-old infants, melodies are social. Psychological Science, 27, 486-501
 \begingroup
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
