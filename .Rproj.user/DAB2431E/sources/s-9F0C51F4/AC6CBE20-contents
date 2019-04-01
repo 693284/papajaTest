@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.26)  1 APR 2019 16:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.26)  1 APR 2019 16:26
 entering extended mode
 **./test_papaja.tex
 (test_papaja.tex
@@ -766,30 +766,30 @@ Package csquotes Info: ... none found.
 (test_papaja.aux)
 \openout1 = `test_papaja.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 156.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 156.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 153.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 153.
 
 ("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 156.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 153.
 ("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -871,7 +871,7 @@ sty"
 Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 156.
+LaTeX Info: Redefining \microtypecontext on input line 153.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
@@ -888,7 +888,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 \AtBeginShipoutBox=\box39
-Package hyperref Info: Link coloring OFF on input line 156.
+Package hyperref Info: Link coloring OFF on input line 153.
 
 ("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -900,45 +900,45 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count154
 )
-LaTeX Info: Redefining \ref on input line 156.
-LaTeX Info: Redefining \pageref on input line 156.
-LaTeX Info: Redefining \nameref on input line 156.
+LaTeX Info: Redefining \ref on input line 153.
+LaTeX Info: Redefining \pageref on input line 153.
+LaTeX Info: Redefining \nameref on input line 153.
 (test_papaja.out) (test_papaja.out)
 \@outlinefile=\write5
 \openout5 = `test_papaja.out'.
 
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 158.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 155.
 
 ("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 158.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 155.
 
 ("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 158.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 155.
 
 ("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 158
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 155
 .
 ("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 158
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 155
 .
 ("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 158.
+(Font)              <12> on input line 155.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 158.
+(Font)              <8> on input line 155.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 158.
-LaTeX Font Info:    Try loading font information for U+msa on input line 158.
+(Font)              <6> on input line 155.
+LaTeX Font Info:    Try loading font information for U+msa on input line 155.
 ("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -946,7 +946,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 fg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 158.
+LaTeX Font Info:    Try loading font information for U+msb on input line 155.
 ("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -959,36 +959,60 @@ fg"
 File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
 ) [1{C:/Users/zocra/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-]
-Underfull \vbox (badness 2119) has occurred while \output is active []
-
-[2] [3]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 177.
+] [2] [3]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 181.
 
 ("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 179
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 183
 .
 ("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ts1lmtt.fd"
 File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [4] AED endfloat: Processing end Figures and Tables [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
+)
+<test_papaja_files/figure-latex/unnamed-chunk-3-1.pdf, id=66, 469.755pt x 325.2
+15pt>
+File: test_papaja_files/figure-latex/unnamed-chunk-3-1.pdf Graphic file (type p
+df)
+<use test_papaja_files/figure-latex/unnamed-chunk-3-1.pdf>
+Package pdftex.def Info: test_papaja_files/figure-latex/unnamed-chunk-3-1.pdf  
+used on input line 188.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[4]
+\openout4 = `test_papaja.fff'.
+
+(test_papaja.fff) [5 <./test_papaja_files/figure-latex/unnamed-chunk-3-1.pdf>] 
+AED endfloat: Processing end Figures and Tables [6] (test_papaja.fff
+<test_papaja_files/figure-latex/myfig-1.pdf, id=96, 469.755pt x 325.215pt>
+File: test_papaja_files/figure-latex/myfig-1.pdf Graphic file (type pdf)
+<use test_papaja_files/figure-latex/myfig-1.pdf>
+Package pdftex.def Info: test_papaja_files/figure-latex/myfig-1.pdf  used on in
+put line 5.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 230.
+[7
+
+
+ <./test_papaja_files/figure-latex/myfig-1.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 230.
 (test_papaja.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 217.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 217.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 230.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 230.
 Package rerunfilecheck Info: File `test_papaja.out' has not changed.
-(rerunfilecheck)             Checksum: 5BC19E98D8F44F8D821515EA5E472ECD;1173.
+(rerunfilecheck)             Checksum: A041AFA894CAAFA48F04D04FD5050B30;1275.
  ) 
 Here is how much of TeX's memory you used:
- 15400 strings out of 492945
- 232692 string characters out of 3126252
- 344959 words of memory out of 3000000
- 18999 multiletter control sequences out of 15000+200000
+ 15423 strings out of 492945
+ 233469 string characters out of 3126252
+ 344829 words of memory out of 3000000
+ 19015 multiletter control sequences out of 15000+200000
  49445 words of font info for 64 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,10n,47p,800b,410s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,10n,47p,800b,418s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.e
 nc}{C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.e
 nc}<C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx
@@ -998,9 +1022,9 @@ lm/lmr8.pfb><C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
 c/lm/lmri12.pfb><C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
 ublic/lm/lmss8.pfb><C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/lm/lmtt12.pfb>
-Output written on test_papaja.pdf (5 pages, 154520 bytes).
+Output written on test_papaja.pdf (7 pages, 165320 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
- 6225 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 140 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 6243 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,7 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics{test_papaja_files/figure-latex/myfig-1.pdf}
+\caption{\label{fig:myfig}this is a histograpm}
+\end{figure*}
