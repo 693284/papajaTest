@@ -1,8 +1,0 @@
-"0","library(data.table)"
-"2","data.table 1.12.0  Latest news: r-datatable.com
-"
-"0","all_data <- fread(""https://raw.githubusercontent.com/CrumpLab/statisticsLab/master/data/MehrSongSpelke2016.csv"")"
-"2"," [0%] Downloaded 0 bytes..."
-"2"," [0%] Downloaded 0 bytes..."
-"2","
-"
