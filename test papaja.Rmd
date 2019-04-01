@@ -92,11 +92,21 @@ library(summarytools)
 view(dfSummary(all_data))
 ```
 
+```{r}
+library(summarytools)
+view(dfSummary(all_data))
+```
+
 # Results
 lets say we want to make a figure
+if we wanted to find power
 ```{r}
-a<-c(1,2,3,4,5)
-hist(a)
+library(pwr)
+pwr.t.test(n=100,
+           d=1,
+           sig.level = .05,
+           type = "two.sample",
+           alternative = "two.sided")
 ```
 
 ```{r myfig,fig.cap="this is a histograpm", fig.width=4, fig.height=4}
