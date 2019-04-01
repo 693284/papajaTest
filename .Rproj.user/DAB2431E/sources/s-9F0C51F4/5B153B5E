@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1911241467",
+    "hash" : "0",
     "id" : "5B153B5E",
-    "lastKnownWriteTime" : 1553632067,
-    "last_content_update" : 1553632067198,
+    "lastKnownWriteTime" : 1554078096,
+    "last_content_update" : 1554078096,
     "path" : "~/2019 Spring - Graduate/7709G M3 30322 R programming/new project/papajaTest/test_papaja.tex",
     "project_path" : "test_papaja.tex",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "relative_order" : 5,
     "source_on_save" : false,

@@ -1,5 +1,5 @@
 ---
-title             : "The title"
+title             : "Does Music Convey Social Information to Infants?"
 shorttitle        : "Title"
 
 author: 
@@ -80,7 +80,15 @@ We report how we determined our sample size, all data exclusions (if any), all m
 
 ## Data analysis
 We used `r cite_r("r-references.bib")` for all our analyses.
+```{r}
+library(data.table)
+all_data <- fread("https://raw.githubusercontent.com/CrumpLab/statisticsLab/master/data/MehrSongSpelke2016.csv")
+```
 
+```{r}
+library(summarytools)
+view(dfSummary(all_data))
+```
 
 # Results
 
