@@ -1,0 +1,5 @@
+"0","library(summarytools)"
+"2","package �summarytools� was built under R version 3.5.3"
+"2","Error: package or namespace load failed for ‘summarytools’ in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]):
+ there is no package called ‘glue’
+"

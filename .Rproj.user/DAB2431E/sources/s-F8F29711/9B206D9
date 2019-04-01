@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553633462774.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9B206D9",
+    "lastKnownWriteTime" : 1554076232,
+    "last_content_update" : 1554076232765,
+    "path" : "~/2019 Spring - Graduate/7709G M3 30322 R programming/new project/papajaTest/test papaja.Rmd",
+    "project_path" : "test papaja.Rmd",
+    "properties" : {
+        "cursorPosition" : "89,25",
+        "last_setup_crc32" : "F8F29711974fbb42",
+        "scrollLine" : "81",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
