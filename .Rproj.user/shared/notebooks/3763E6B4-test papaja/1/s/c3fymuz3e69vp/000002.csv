@@ -1,0 +1,8 @@
+"0","a<-c(1,2,3)"
+"0","sapply(a, FUN=function(x)"
+"0","  return(x+1)"
+"0","  })"
+"2","Error: unexpected '}' in:
+""  return(x+1)
+  }""
+"

@@ -109,6 +109,14 @@ pwr.t.test(n=44,
            alternative = "two.sided")
 ```
 
+```{r, eval=F}
+a<-c(1,2,3)
+sapply(a, FUN = function(x)
+  return(x+1)
+  })
+sapply(a, FUN =  function)
+```
+
 ```{r myfig,fig.cap="this is a histograpm", fig.width=4, fig.height=4}
 a<-rnorm(100,0,1)
 hist(a)

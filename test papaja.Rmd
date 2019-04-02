@@ -102,11 +102,19 @@ lets say we want to make a figure
 if we wanted to find power
 ```{r}
 library(pwr)
-pwr.t.test(n=100,
-           d=1,
+pwr.t.test(n=44,
+           d=.8,
            sig.level = .05,
            type = "two.sample",
            alternative = "two.sided")
+```
+
+```{r, eval=F}
+a<-c(1,2,3)
+sapply(a, FUN = function(x)
+  return(x+1)
+  })
+sapply(a, FUN =  function)
 ```
 
 ```{r myfig,fig.cap="this is a histograpm", fig.width=4, fig.height=4}
