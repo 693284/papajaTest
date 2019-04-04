@@ -113,7 +113,9 @@ sd(baseline)
 ```{r}
 t.test(baseline, mu=.5)
 ```
-
+```{r}
+mean(baseline)
+```
 # Discussion
 
 
