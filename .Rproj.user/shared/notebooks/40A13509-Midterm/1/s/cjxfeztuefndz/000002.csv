@@ -1,0 +1,2 @@
+"0","library(data.table)"
+"0","all_data <- fread(""https://raw.githubusercontent.com/CrumpLab/statisticsLab/master/data/MehrSongSpelke2016.csv"")"

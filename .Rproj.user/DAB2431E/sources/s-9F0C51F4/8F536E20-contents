@@ -92,9 +92,20 @@ library(summarytools)
 view(dfSummary(all_data))
 ```
 
+
+
 ```{r}
-library(summarytools)
-view(dfSummary(all_data))
+library(dplyr)
+experiment_one <- all_data %>% filter(exp1==1)
+```
+
+```{r}
+baseline <- experiment_one$Baseline_Proportion_Gaze_to_Singer
+```
+
+
+```{r}
+plot(baseline)
 ```
 
 # Results
@@ -120,6 +131,36 @@ sapply(a, FUN =  function)
 ```{r myfig,fig.cap="this is a histograpm", fig.width=4, fig.height=4}
 a<-rnorm(100,0,1)
 hist(a)
+```
+
+```{r}
+hist(baseline)
+```
+
+```{r}
+mean(baseline)
+```
+
+```{r}
+sd(baseline)
+```
+
+```{r}
+sd(baseline)
+```
+
+```{r}
+baseline <- experiment_one$Baseline_Proportion_Gaze_to_Singer
+```
+
+```{r}
+plot(baseline) 
+```
+```{r}
+hist(baseline) 
+```
+```{r}
+t.test(baseline, mu=.5)
 ```
 
 # Discussion
