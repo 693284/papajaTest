@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.26)  1 APR 2019 18:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.26)  4 APR 2019 09:54
 entering extended mode
 **./test_papaja.tex
 (test_papaja.tex
@@ -763,7 +763,7 @@ LaTeX Info: Redefining \\ on input line 3056.
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
-(test_papaja.aux)
+No file test_papaja.aux.
 \openout1 = `test_papaja.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 153.
@@ -903,116 +903,23 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 153.
 LaTeX Info: Redefining \pageref on input line 153.
 LaTeX Info: Redefining \nameref on input line 153.
-(test_papaja.out) (test_papaja.out)
 \@outlinefile=\write5
 \openout5 = `test_papaja.out'.
 
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 155.
-
-("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
-File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 155.
-
-("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 155.
-
-("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 155
-.
-("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 155
-.
-("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 155.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 155.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 155.
-LaTeX Font Info:    Try loading font information for U+msa on input line 155.
-("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msa.c
-fg"
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 155.
-("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msb.c
-fg"
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-eur.c
-fg"
-File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
-) [1{C:/Users/zocra/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-] [2] [3]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 182.
-
-("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmtt.fd"
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 184
-.
-("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ts1lmtt.fd"
-File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [4]
-\openout4 = `test_papaja.fff'.
-
-(test_papaja.fff) [5] AED endfloat: Processing end Figures and Tables [6] (test
-_papaja.fff
-<test_papaja_files/figure-latex/myfig-1.pdf, id=91, 289.08pt x 289.08pt>
-File: test_papaja_files/figure-latex/myfig-1.pdf Graphic file (type pdf)
-<use test_papaja_files/figure-latex/myfig-1.pdf>
-Package pdftex.def Info: test_papaja_files/figure-latex/myfig-1.pdf  used on in
-put line 5.
-(pdftex.def)             Requested size: 289.09251pt x 289.09251pt.
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 253.
-[7
-
-
- <./test_papaja_files/figure-latex/myfig-1.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 253.
-(test_papaja.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 253.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 253.
-Package rerunfilecheck Info: File `test_papaja.out' has not changed.
-(rerunfilecheck)             Checksum: A041AFA894CAAFA48F04D04FD5050B30;1275.
- ) 
+! I can't write on file `test_papaja.pdf'.
+Please type another file name for output
+! Emergency stop.
+<to be read again> 
+                   \edef 
+l.153 \begin{document}
+                       
 Here is how much of TeX's memory you used:
- 15424 strings out of 492945
- 233269 string characters out of 3126252
- 345829 words of memory out of 3000000
- 19011 multiletter control sequences out of 15000+200000
- 49665 words of font info for 66 fonts, out of 3000000 for 9000
+ 15025 strings out of 492945
+ 225078 string characters out of 3126252
+ 340379 words of memory out of 3000000
+ 18749 multiletter control sequences out of 15000+200000
+ 7883 words of font info for 19 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,10n,47p,800b,530s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.e
-nc}{C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.e
-nc}<C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx
-12.pfb><C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/
-lmr12.pfb><C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-lm/lmr8.pfb><C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/lm/lmri12.pfb><C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/lm/lmss8.pfb><C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/lm/lmtt12.pfb>
-Output written on test_papaja.pdf (7 pages, 164433 bytes).
-PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 6238 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43i,1n,47p,800b,272s stack positions out of 5000i,500n,10000p,200000b,50000s
 
+!  ==> Fatal error occurred, no output PDF file produced!
