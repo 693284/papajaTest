@@ -1,19 +1,19 @@
 ---
-title             : "Does Music Convey Social Information to Infants?"
-shorttitle        : "Title"
+title             : "Reproducing the Mehr, Song & Spelke (2016)"
+shorttitle        : "For Infants Melodies Are Social"
 
 author: 
-  - name          : "First Author"
+  - name          : "Zoren Degtyarev"
     affiliation   : "1"
     corresponding : yes    # Define only one corresponding author
     address       : "Postal address"
-    email         : "my@email.com"
+    email         : "zoren@gmail.com"
   - name          : "Ernst-August Doelle"
     affiliation   : "1,2"
 
 affiliation:
   - id            : "1"
-    institution   : "Wilhelm-Wundt-University"
+    institution   : "Brooklyn College of the City University of New York"
   - id            : "2"
     institution   : "Konstanz Business School"
 
@@ -23,6 +23,8 @@ authornote: |
   Enter author note here.
 
 abstract: |
+  
+  A reproduction of the analysis for Experiment 1 from Mehr, Song & Spelke (2016). Five month old infants were exposed to one of two novel songs containing different melodies with lyrics and rhythms being the same. Infants either heard the songs through a toy in which their parent's voice was recorded or was sung live by a friendly unfamiliar person initially and later through video recording. Infant's selective attention was tested by having them listen to two presentations of either familiar or unfamiliar songs. Infants payed attention to the familiar song, sung by their parent in the past. No infant preference was observed between the toy onto which parent's voice was recorde or a video recording of an unfamiliar person, briefly met by an infant initially. Infants in the later two conditions retained the memory of the melody for longer than 8 months. These findings suggest that songs performed by parents at home convey social meaning to a child.
   One or two sentences providing a **basic introduction** to the field,  comprehensible to a scientist in any discipline.
   
   Two to three sentences of **more detailed background**, comprehensible  to scientists in related disciplines.
@@ -39,7 +41,7 @@ abstract: |
   
   <!-- https://tinyurl.com/ybremelq -->
   
-keywords          : "keywords"
+keywords          : "music, social cognition, memory, infant development, open data, open materials"
 wordcount         : "X"
 
 bibliography      : ["r-references.bib"]
@@ -67,14 +69,20 @@ set.seed(42)
 knitr::opts_chunk$set(cache.extra = knitr::rand_seed)
 ```
 
+  This is an example of creating an APA manuscript using papaja, and also an example for part 2 (APA paper in R markdown) of the midterm assignment. This will enable to APA style manuscripts using R markdown.
 
+This report re-produces the analysis of Experiment 1  reported in Mehr, Song & Spelke (2016) @rosenbaum2017stand. The data were downloaded from [https://github.com/693284/papajaTest/blob/master/MehrSongSpelke2016.csv](https://github.com/693284/papajaTest/blob/master/MehrSongSpelke2016.csv)
+
+@rosenbaum2017stand had participants perform a Stroop task in one of two posture conditions. Participants
 
 # Methods
 We report how we determined our sample size, all data exclusions (if any), all manipulations, and all measures in the study. <!-- 21-word solution (Simmons, Nelson & Simonsohn, 2012; retrieved from http://ssrn.com/abstract=2160588) -->
 
 ## Participants
+There were 32 participants
 
 ## Material
+The details of the Melodies are Social for Infants experiment are reported in Mehr et.al, (2016)
 
 ## Procedure
 
