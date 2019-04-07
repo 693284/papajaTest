@@ -25,19 +25,7 @@ authornote: |
 abstract: |
   
   A reproduction of the analysis for Experiment 1 from Mehr, Song & Spelke (2016). Five month old infants were exposed to one of two novel songs containing different melodies with lyrics and rhythms being the same. Infants either heard the songs through a toy in which their parent's voice was recorded or was sung live by a friendly unfamiliar person initially and later through video recording. Infant's selective attention was tested by having them listen to two presentations of either familiar or unfamiliar songs. Infants payed attention to the familiar song, sung by their parent in the past. No infant preference was observed between the toy onto which parent's voice was recorde or a video recording of an unfamiliar person, briefly met by an infant initially. Infants in the later two conditions retained the memory of the melody for longer than 8 months. These findings suggest that songs performed by parents at home convey social meaning to a child.
-  One or two sentences providing a **basic introduction** to the field,  comprehensible to a scientist in any discipline.
   
-  Two to three sentences of **more detailed background**, comprehensible  to scientists in related disciplines.
-  
-  One sentence clearly stating the **general problem** being addressed by  this particular study.
-  
-  One sentence summarizing the main result (with the words "**here we show**" or their equivalent).
-  
-  Two or three sentences explaining what the **main result** reveals in direct comparison to what was thought to be the case previously, or how the  main result adds to previous knowledge.
-  
-  One or two sentences to put the results into a more **general context**.
-  
-  Two or three sentences to provide a **broader perspective**, readily comprehensible to a scientist in any discipline.
   
   <!-- https://tinyurl.com/ybremelq -->
   
@@ -69,23 +57,23 @@ set.seed(42)
 knitr::opts_chunk$set(cache.extra = knitr::rand_seed)
 ```
 
-  This is an example of creating an APA manuscript using papaja, and also an example for part 2 (APA paper in R markdown) of the midterm assignment. This will enable to APA style manuscripts using R markdown.
+  This is an example of creating an APA manuscript using papaja, and also an example for part 2 (APA paper in R markdown) of the midterm assignment. This script will enable to recreate APA style manuscripts using R markdown. This report re-produces the analysis of Experiment 1  reported in Mehr, Song & Spelke (2016) @rosenbaum2017stand. The data were downloaded from [https://github.com/693284/papajaTest/blob/master/MehrSongSpelke2016.csv](https://github.com/693284/papajaTest/blob/master/MehrSongSpelke2016.csv)
+   Music is universal to most human beings. Children and infants often listen to their parents' singing. Parents usually sing in a style relatable across different cultures. What is the reason behind children paying attention to these types of songs? Mehr and his colleagues in 2016 tested the hypothesis that melodies convey social meaning to infants. Specifically, these melodies inform us about social bonding. 
+    Mehr and colleugues assert that children are exposed to melodies that are shared within a specific social group. As children grow up in a specific culture, childrent get exposed to certain tune or songs (e.g., “Babushka Baio”), while in a different culture a child might be exposed to a different song (e.g., "My Little Love"). Thus, when an infant hears a stranger singing a song that a child recognizes, this song may convey crucial information that this stranger can belong to the same social group.
+    To test whether this is so, the researchers conducted an experiment in which they recruited 32 infants with their parents. The experiment had two phases. During the first phase the participants visited to the lab during which the parents were taught a new lullaby that neither the parents nor thier child heard prior. After learning the new lullaby, parents sang it to their child every day for the next 1-2 weeks. After the completion of the exposure period, participants (parent and thier infant) returned to the lab to complete the second phase of the experiment in which infants first saw a screen with side-by-side videos of two strangers. Strangers were silently smiling while looking at the infant. To establish a baseline, infant's gaze direction was recorded. Following the baseline recordings, infants saw two strangers on the screen, singing either the lullaby that the perents learned in the first phase of the experiment or a different lullaby containing different melody but with the same lyrics and rhythm. Please refer to Mehr et al. (2016) Experiment 1 for more details on experiment's methods.   
 
-This report re-produces the analysis of Experiment 1  reported in Mehr, Song & Spelke (2016) @rosenbaum2017stand. The data were downloaded from [https://github.com/693284/papajaTest/blob/master/MehrSongSpelke2016.csv](https://github.com/693284/papajaTest/blob/master/MehrSongSpelke2016.csv)
-
-@rosenbaum2017stand had participants perform a Stroop task in one of two posture conditions. Participants
-
+ 
 # Methods
 We report how we determined our sample size, all data exclusions (if any), all manipulations, and all measures in the study. <!-- 21-word solution (Simmons, Nelson & Simonsohn, 2012; retrieved from http://ssrn.com/abstract=2160588) -->
 
 ## Participants
-There were 32 participants
+There were 32 participants (5 month old infants; 17 females; mean age = 5.61 months, SD = 0.31, range: 5.06–6.11)
 
 ## Material
 The details of the Melodies are Social for Infants experiment are reported in Mehr et.al, (2016)
 
 ## Procedure
-
+The infant sat on his or her parent’s lap, about 5 ft away from a 55- × 40-in. projection screen. During the experiment the parent had to sit with his or her eyes closed as well as had to wear noise-canceling headphones that played masking music. Testing the selective-attention included four parts. Infant first saw side-by-side high-definition video recordings of the two strangers, smiling while directly looking at the infant, for 16 s (baseline trial). Next, the infant saw, first, one 22-s video of each of the two strangers singing one of the two songs while keep looking and smiling at the infant (familiarization trials). Finally, the infant watched a silent 16-s test trial that was precise to the baseline trial. To keep infant's eyes attending to the center of the screen before the baseline and test trials, researchers made an object with an attractive sound appear at the center of the screen.
 ## Data analysis
 We used `r cite_r("r-references.bib")` for all our analyses.
 ```{r}
