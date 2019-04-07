@@ -95,8 +95,8 @@ baseline <- experiment_one$Baseline_Proportion_Gaze_to_Singer
 ```
 
 
-```{r}
-plot(baseline)
+```{r myfig,fig.cap="Proportion of gaze to singer", fig.width=5, fig.height=5}
+hist(baseline)
 ```
 # Results
 ```{r}
