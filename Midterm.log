@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.26)  7 APR 2019 15:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.26)  7 APR 2019 17:57
 entering extended mode
 **./Midterm.tex
 (Midterm.tex
@@ -968,7 +968,7 @@ LaTeX Font Info:    Try loading font information for TS1+lmr on input line 193.
 ("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [4]
-<Midterm_files/figure-latex/unnamed-chunk-5-1.pdf, id=60, 469.755pt x 325.215pt
+<Midterm_files/figure-latex/unnamed-chunk-5-1.pdf, id=64, 469.755pt x 325.215pt
 >
 File: Midterm_files/figure-latex/unnamed-chunk-5-1.pdf Graphic file (type pdf)
 <use Midterm_files/figure-latex/unnamed-chunk-5-1.pdf>
@@ -984,24 +984,21 @@ LaTeX Font Info:    Try loading font information for T1+lmtt on input line 216.
 
 ("C:\Users\zocra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Underfull \vbox (badness 1867) has occurred while \output is active []
-
-[5 <./Midterm_files/figure-latex/unnamed-chunk-5-1.pdf>] [6] AED endfloat: Proc
-essing end Figures and Tables [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 283.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
+) [5 <./Midterm_files/figure-latex/unnamed-chunk-5-1.pdf>] [6] AED endfloat: Pr
+ocessing end Figures and Tables [7]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 293.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 293.
 (Midterm.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 283.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 283.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 293.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 293.
 Package rerunfilecheck Info: File `Midterm.out' has not changed.
-(rerunfilecheck)             Checksum: E68624EB358FF2BBFFFC2376994D095E;947.
+(rerunfilecheck)             Checksum: 6F9005383D0D2C4651E2998DCA40FB81;1163.
  ) 
 Here is how much of TeX's memory you used:
- 15413 strings out of 492945
- 233222 string characters out of 3126252
- 345550 words of memory out of 3000000
- 18994 multiletter control sequences out of 15000+200000
+ 15416 strings out of 492945
+ 233277 string characters out of 3126252
+ 345604 words of memory out of 3000000
+ 18996 multiletter control sequences out of 15000+200000
  50280 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,10n,47p,796b,530s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1014,9 +1011,9 @@ lm/lmr8.pfb><C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
 c/lm/lmri12.pfb><C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
 ublic/lm/lmss8.pfb><C:/Users/zocra/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/lm/lmtt12.pfb>
-Output written on Midterm.pdf (7 pages, 167894 bytes).
+Output written on Midterm.pdf (7 pages, 170268 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
- 6214 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 127 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
+ 6222 words of extra memory for PDF output out of 10000 (max. 10000000)
 
