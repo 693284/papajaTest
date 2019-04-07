@@ -5,7 +5,7 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "88363132",
+    "hash" : "0",
     "id" : "31244F5C",
     "lastKnownWriteTime" : 1554580721,
     "last_content_update" : 1554580721412,
@@ -13,8 +13,8 @@
     "project_path" : "Midterm.Rmd",
     "properties" : {
         "cursorPosition" : "85,0",
-        "last_setup_crc32" : "9F0C51F4974fbb42",
-        "scrollLine" : "72",
+        "last_setup_crc32" : "",
+        "scrollLine" : "0",
         "tempName" : "Untitled2"
     },
     "relative_order" : 7,
