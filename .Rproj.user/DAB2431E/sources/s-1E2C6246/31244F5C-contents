@@ -34,7 +34,7 @@ floatsintext      : no
 figurelist        : no
 tablelist         : no
 footnotelist      : no
-linenumbers       : yes
+linenumbers       : no
 mask              : no
 draft             : no
 
@@ -102,7 +102,7 @@ mean(baseline)
 sd(baseline)
 ```
 Mean proportion of time that infants looked at two strangers shows to be closer to 50/50
-```{r}
+```{r, echo=FALSE}
 t.test(baseline, mu=.5)
 ```
 
