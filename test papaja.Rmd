@@ -1,6 +1,6 @@
 ---
 title             : "Does Music Convey Social Information to Infants?"
-shorttitle        : "Title"
+shorttitle        : "For 5-Month-Old Infants, Melodies Are Social"
 
 author: 
   - name          : "Mehr, Song"
@@ -136,6 +136,7 @@ hist(a)
 ```{r}
 hist(baseline)
 ```
+
 ```{r}
 mean(baseline)
 ```
@@ -147,6 +148,33 @@ sd(baseline)
 ```{r}
 sd(baseline)
 ```
+
+```{r}
+baseline <- experiment_one$Baseline_Proportion_Gaze_to_Singer
+```
+
+```{r}
+plot(baseline) 
+```
+```{r}
+hist(baseline) 
+```
+```{r}
+t.test(baseline, mu=.5)
+```
+
+```{r}
+sample_sd   <- sd(baseline)
+
+simulated_means <- length(1000)
+for(i in 1:1000){
+ simulated_means[i] <- mean(rnorm(32,.5, sample_sd))
+}
+
+hist(simulated_means)
+```
+
+
 # Discussion
 
 

@@ -1,0 +1,7 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics{Midterm_files/figure-latex/unnamed-chunk-9-1.pdf}
+\caption{}
+\end{figure*}

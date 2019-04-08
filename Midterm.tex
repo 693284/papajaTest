@@ -24,7 +24,7 @@
 \usepackage{hyperref}
 \hypersetup{unicode=true,
             pdftitle={Reproducing the Mehr, Song \& Spelke (2016)},
-            pdfauthor={Zoren Degtyarev~\& Ernst-August Doelle},
+            pdfauthor={Zoren Degtyarev},
             pdfkeywords={music, social cognition, memory, infant development, open data, open
 materials},
             pdfborder={0 0 0},
@@ -65,14 +65,13 @@ materials},
 
 
   \title{Reproducing the Mehr, Song \& Spelke (2016)}
-    \author{Zoren Degtyarev\textsuperscript{1}~\& Ernst-August
-Doelle\textsuperscript{1,2}}
+    \author{Zoren Degtyarev}
     \date{}
   
 \shorttitle{For Infants Melodies Are Social}
 \affiliation{
 \vspace{0.5cm}
-\textsuperscript{1} Brooklyn College of the City University of New York\\\textsuperscript{2} Konstanz Business School}
+ Brooklyn College of the City University of New York}
 \keywords{music, social cognition, memory, infant development, open data, open materials\newline\indent Word count: X}
 \usepackage{csquotes}
 \usepackage{upgreek}
@@ -104,10 +103,8 @@ Doelle\textsuperscript{1,2}}
 
 \linenumbers
 
-\authornote{Add complete departmental affiliations for each
-author here. Each new line herein must be indented, like this line.
-
-Enter author note here.
+\authornote{ This project is a midterm assignment for R
+programming class
 
 Correspondence concerning this article should be addressed to Zoren
 Degtyarev, Postal address. E-mail:
@@ -175,9 +172,6 @@ experiment's methods.
 
 \section{Methods}\label{methods}
 
-We report how we determined our sample size, all data exclusions (if
-any), all manipulations, and all measures in the study.
-
 \subsection{Participants}\label{participants}
 
 There were 32 participants (5 month old infants; 17 females; mean age =
@@ -203,10 +197,12 @@ Finally, the infant watched a silent 16-s test trial that was precise to
 the baseline trial. To keep infant's eyes attending to the center of the
 screen before the baseline and test trials, researchers made an object
 with an attractive sound appear at the center of the screen. \#\# Data
-analysis We used R {[}Version 3.5.2; @{]} and the R-packages
-\emph{data.table} (Version 1.12.0; Brown, 2004), \emph{pwr} (Version
-1.2.2; Mehr, 2014), and \emph{summarytools} (Version 0.9.2; Samuel A.
-Mehr \& Spelke, 2016) for all our analyses.
+analysis We used R (Version 3.5.2; R Core Team, 2018) and the R-packages
+\emph{data.table} (Version 1.12.0; Brown, 2004), \emph{dplyr} (Version
+0.8.0.1; Wickham, François, Henry, \& Müller, 2019), \emph{papaja}
+(Version 0.1.0.9842; Aust \& Barth, 2018), \emph{pwr} (Version 1.2.2;
+Mehr, 2014), and \emph{summarytools} (Version 0.9.2; Samuel A. Mehr \&
+Spelke, 2016) for all our analyses.
 
 \includegraphics{Midterm_files/figure-latex/myfig-1.pdf} \# Results
 
@@ -263,10 +259,16 @@ analysis}\label{simulation-based-power-analysis}
 ##     alternative = two.sided
 \end{verbatim}
 
+\begin{figure}
+\centering
+\includegraphics{Midterm_files/figure-latex/unnamed-chunk-9-1.pdf}
+\caption{}
+\end{figure}
+
 Power analysis has successfully confirmed the exact number of
 participants needed for the Experiment 1
 
-\includegraphics{Midterm_files/figure-latex/unnamed-chunk-9-1.pdf}
+\includegraphics{Midterm_files/figure-latex/unnamed-chunk-10-1.pdf}
 \newpage
 
 \section{References}\label{references}
@@ -275,6 +277,10 @@ participants needed for the Experiment 1
 \setlength{\parindent}{-0.5in} \setlength{\leftskip}{0.5in}
 
 \hypertarget{refs}{}
+\hypertarget{ref-R-papaja}{}
+Aust, F., \& Barth, M. (2018). \emph{papaja: Create APA manuscripts with
+R Markdown}. Retrieved from \url{https://github.com/crsh/papaja}
+
 \hypertarget{ref-R-data.table}{}
 Brown, D. E. (2004). \emph{Human universals, human nature \& human
 culture}. Retrieved from
@@ -285,10 +291,20 @@ Mehr, S. A. (2014). \emph{Music in the home: New evidence for an
 intergenerational link}. Retrieved from
 \url{https://journals.sagepub.com/doi/full/10.1177/0022429413520008}
 
+\hypertarget{ref-R-base}{}
+R Core Team. (2018). \emph{R: A language and environment for statistical
+computing}. Vienna, Austria: R Foundation for Statistical Computing.
+Retrieved from \url{https://www.R-project.org/}
+
 \hypertarget{ref-R-summarytools}{}
 Samuel A. Mehr, L. A. S., \& Spelke, E. S. (2016). \emph{For 5-month-old
 infants, melodies are social}. Retrieved from
 \url{https://journals.sagepub.com/doi/10.1177/0956797615626691}
+
+\hypertarget{ref-R-dplyr}{}
+Wickham, H., François, R., Henry, L., \& Müller, K. (2019). \emph{Dplyr:
+A grammar of data manipulation}. Retrieved from
+\url{https://CRAN.R-project.org/package=dplyr}
 
 \endgroup
 
