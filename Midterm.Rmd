@@ -122,7 +122,26 @@ The mean proportion looking time toward the singing stranger during Experiment 1
 The re-analysis successfully reproduced the analysis reported by Mehr et al. (2016) In the following section, I show an example of completing a simulation based power analysis for this design.
 
 ## Simulation-based power analysis
+```{r}
+library(pwr)
+pwr.t.test(n=32,
+           d=.54,
+           sig.level = .05,
+           type = "one.sample",
+           alternative = "two.sided")
+```
+Power analysis has successfully confirmed the exact number of participants needed for the Experiment 1
 
+```{r}
+sample_sd   <- sd(baseline)
+
+simulated_means <- length(1000)
+for(i in 1:1000){
+ simulated_means[i] <- mean(rnorm(32,.5, sample_sd))
+}
+
+hist(simulated_means)
+```
 \newpage
 
 # References

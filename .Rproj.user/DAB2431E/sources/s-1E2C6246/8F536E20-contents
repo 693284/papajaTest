@@ -163,6 +163,18 @@ hist(baseline)
 t.test(baseline, mu=.5)
 ```
 
+```{r}
+sample_sd   <- sd(baseline)
+
+simulated_means <- length(1000)
+for(i in 1:1000){
+ simulated_means[i] <- mean(rnorm(32,.5, sample_sd))
+}
+
+hist(simulated_means)
+```
+
+
 # Discussion
 
 
